@@ -2,7 +2,7 @@
 
 ## Visit
 
-(Site in production)[https://test-bimbamjob.herokuapp.com/]
+[Site in production](https://test-bimbamjob.herokuapp.com/)
 
 ## Gaming
 
